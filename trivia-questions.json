@@ -1,0 +1,59 @@
+[
+  {
+    "question": "What is the first bird you can play as in Feather Family?",
+    "answer": "Chicken"
+  },
+  {
+    "question": "What mythical bird can breathe fire in Feather Family?",
+    "answer": "Phoenix"
+  },
+  {
+    "question": "What do you collect to unlock new birds in Feather Family?",
+    "answer": "Feathers"
+  },
+  {
+    "question": "What is the spooky bird morph you can unlock in a cave?",
+    "answer": "Skeleton Bird"
+  },
+  {
+    "question": "What bird has a rainbow tail and is often considered rare?",
+    "answer": "Peacock"
+  },
+  {
+    "question": "What do you click to change your bird’s color and accessories?",
+    "answer": "Customize"
+  },
+  {
+    "question": "Who's this small gray hatchling with a pink beak and tiny black eyes?",
+    "answer": "Baby Pigeon",
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/c/c5/PigeonHatchlingRP.png/revision/latest?cb=20230402063703"
+  },
+  {
+    "question": "Which bird has long legs, a pink body, and is often seen standing in water?",
+    "answer": "Flamingo",
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/5/5a/FlamingoAdult_Lesser.png/revision/latest?cb=20250320020841"
+  },
+  {
+    "question": "Words are missing! Complete the words S_ _ _ _pi_er",
+    "answer": "sandpiper",
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/9/9f/SandpiperAdultWESTERN.png/revision/latest?cb=20240224170118"
+  },
+  {
+    "question": "Can you identify this bird with shimmering feathers?",
+    "answer": "Starling",
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/9/93/StarlingAdultCOMMON.png/revision/latest?cb=20241004234902",
+    "hint": "This bird is known for its iridescent feathers that shimmer in the light."
+  },
+  {
+    "question": "What bird is known for its vibrant tail display?",
+    "answer": "Peafowl",
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/3/3f/PeafowlFemale.png/revision/latest?cb=20241018174620",
+    "hint": "This bird is famous for its colorful tail, often displayed by males."
+  },
+  {
+    "question": "Where in Feather Family can you find this shimmering Beach Crystal?",
+    "answer": "Beach Map",
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/7/7f/BeachCrystal.png/revision/latest/scale-to-width-down/1000?cb=20240420180911",
+    "hint": "This map features sandy shores and waves, perfect for a coastal adventure!"
+  }
+]

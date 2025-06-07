@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Sparrow",
+    "category": "Standard",
+    "cost": 0,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/3/3d/SparrowAdult.png/revision/latest?cb=20240922185908"
+  },
+  {
+    "name": "Pigeon",
+    "category": "Standard",
+    "cost": 0,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/8/84/PigeonAdultRP.png/revision/latest/scale-to-width-down/1000?cb=20230402063703"
+  },
+  {
+    "name": "Chicken",
+    "category": "Standard",
+    "cost": 0,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/b/b8/ChickenHenLEGHORN.png/revision/latest?cb=20230418213340"
+  },
+  {
+    "name": "Guineafowl",
+    "category": "Standard",
+    "cost": 10,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/c/c4/GuineafowlRoosterHELMETED.png/revision/latest?cb=20230127074950"
+  },
+  {
+    "name": "Parakeet",
+    "category": "Standard",
+    "cost": 25,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/6/68/ParakeetAdultBUDGERIGAR.png/revision/latest?cb=20240920230120"
+  },
+  {
+    "name": "Cockatoo",
+    "category": "Standard",
+    "cost": 100,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/c/c6/CockatooAdultCOCKATOO.png/revision/latest?cb=20240919011706"
+  },
+  {
+    "name": "Dromaeosaur",
+    "category": "Unlockable",
+    "cost": 3000,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/0/0b/DromaeosaurAdultDEINONYCHUS.png/revision/latest?cb=20230827193802"
+  },
+  {
+    "name": "Archaeopteryx",
+    "category": "Unlockable",
+    "cost": 1200,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/2/28/ArchaeopteryxAdultUPDATED.png/revision/latest/scale-to-width-down/1000?cb=20230806182540"
+  },
+  {
+    "name": "Pelagornis",
+    "category": "Unlockable",
+    "cost": 1800,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/c/c3/PelagornisAdult.png/revision/latest/scale-to-width-down/1000?cb=20230707212100"
+  },
+  {
+    "name": "Elephant Bird",
+    "category": "Unlockable",
+    "cost": 900,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/4/48/ElephantBirdFemale.png/revision/latest?cb=20230723214953"
+  },
+  {
+    "name": "Ibis",
+    "category": "Standard",
+    "cost": 200,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/3/3e/IbisAdult.png/revision/latest?cb=20250310170000"
+  },
+  {
+    "name": "Hummingbird",
+    "category": "Unlockable",
+    "cost": 50,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/5/5a/HummingbirdAdult.png/revision/latest?cb=20250310170000"
+  },
+  {
+    "name": "Vulture",
+    "category": "Unlockable",
+    "cost": 450,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/9/9c/VultureAdult.png/revision/latest?cb=20250310170000"
+  },
+  {
+    "name": "Kelenken",
+    "category": "Unlockable",
+    "cost": 1700,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/7/7a/KelenkenAdult.png/revision/latest?cb=20250310170000"
+  },
+  {
+    "name": "Peafowl",
+    "category": "Standard",
+    "cost": 50,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/4/4e/PeafowlAdult.png/revision/latest?cb=20250310170000"
+  },
+  {
+    "name": "Harpagornis",
+    "category": "Unlockable",
+    "cost": 1900,
+    "robux": null,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/1/1f/HarpagornisAdult.png/revision/latest?cb=20250310170000"
+  },
+  {
+    "name": "Phoenix",
+    "category": "Game Pass",
+    "cost": null,
+    "robux": 400,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/0/07/PhoenixAdultUPDATED.png/revision/latest/scale-to-width-down/1000?cb=20230126180542"
+  },
+  {
+    "name": "Cockatrice",
+    "category": "Game Pass",
+    "cost": null,
+    "robux": 500,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/3/3d/CockatriceUPDATED.png/revision/latest/scale-to-width-down/1000?cb=20241224005702"
+  },
+  {
+    "name": "Griffin",
+    "category": "Game Pass",
+    "cost": null,
+    "robux": 600,
+    "image": "https://static.wikia.nocookie.net/roblox-feather-family/images/a/a1/GriffinMaleUPDATED.png/revision/latest/scale-to-width-down/1000?cb=20230127011446"
+  }
+]
